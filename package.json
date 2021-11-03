@@ -294,6 +294,7 @@
       "resolved": "https://registry.npmjs.org/mysql/-/mysql-2.18.1.tgz",
       "version": "2.18.1"
     },
+    "mysql2": "^2.3.2",
     "negotiator": {
       "integrity": "sha512-hZXc7K2e+PgeI1eDBe/10Ard4ekbfrrqG8Ep+8Jmf4JID2bNg7NvCPOZN+kfF574pFQI7mum2AUqDidoKqcTOw==",
       "resolved": "https://registry.npmjs.org/negotiator/-/negotiator-0.6.2.tgz",
@@ -332,7 +333,6 @@
       "resolved": "https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-0.1.7.tgz",
       "version": "0.1.7"
     },
-    "pg": "^8.7.1",
     "pg-connection-string": {
       "integrity": "sha512-r5o/V/ORTA6TmUnyWZR9nCj1klXCO2CEKNRlVuJptZe85QuhFayC7WeMic7ndayT5IRIR0S0xFxFi2ousartlQ==",
       "resolved": "https://registry.npmjs.org/pg-connection-string/-/pg-connection-string-2.5.0.tgz",
